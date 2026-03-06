@@ -3,7 +3,7 @@ from datetime import datetime, date
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "DEIN_BOT_TOKEN"
+TOKEN = "8763564657:AAFz--rc2O0LJZZcy7v6c3yCcoUKNLREajY"
 
 conn = sqlite3.connect("birthdays.db", check_same_thread=False)
 cursor = conn.cursor()
