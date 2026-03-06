@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 TOKEN = "8763564657:AAFz--rc2O0LJZZcy7v6c3yCcoUKNLREajY"
-ACCESS_PASSWORD = "Passwort"
+ACCESS_PASSWORD = "GenschGeburtstage"
 
 DB_FILE = "birthdays.db"
 TIMEZONE = "Europe/Berlin"
